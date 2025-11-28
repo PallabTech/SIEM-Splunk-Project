@@ -18,11 +18,11 @@ A complete end-to-end SIEM implementation designed to simulate real cyber-attack
 ## 📄 Documentation
 Full PDF: 
 
-## 🎥 Demo Video : 
+## 🎥 Demo Video : https://drive.google.com/file/d/1uOEu8dS4DxbJzQyOtKQmXprQ6HjTfi4Y/view?usp=drive_link
  
 
 ## 📊 Dashboard Screenshots
-(Insert images)
+
 
 ## 🧪 Attack Simulations
 - Nmap `-sV` scan
@@ -32,7 +32,7 @@ Full PDF:
 - privilege escalation attempts
 
 ## 📂 Directory Structure
-(Insert the repo tree)
+
 
 ---
 
